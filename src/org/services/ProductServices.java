@@ -5,6 +5,13 @@ import java.util.List;
 
 import javax.jws.WebService;
 
+/**
+ * 
+ * @author Sandhya
+ * Product Service of Book List
+ *
+ */
+
 @WebService
 public class ProductServices {
 	

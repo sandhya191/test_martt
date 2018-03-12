@@ -4,6 +4,13 @@ import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
 
+/**
+ * 
+ * @author Sandhya
+ * Details about Product
+ *
+ */
+
 @XmlRootElement(name="Product")
 @XmlType(propOrder={"price","sku","name"})
 public class Products {

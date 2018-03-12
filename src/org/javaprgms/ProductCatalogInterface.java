@@ -7,6 +7,12 @@ import javax.jws.WebService;
 
 import org.models.Products;
 
+/**
+ * 
+ * @author Sandhya
+ * Product Catalog Interface Of Test Mart project
+ *
+ */
 
 
 @WebService
