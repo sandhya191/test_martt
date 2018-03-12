@@ -1,13 +1,21 @@
 package org.javaprgms;
 
 import java.util.ArrayList;
+
 import java.util.List;
 
 import javax.jws.WebService;
 
-import org.java.models.Products;
-import org.java.prgms.ProductCatalogInterface;
-import org.java.prgms.services.ProductServices;
+import org.javaprgms.models.Products;
+import org.javaprgms.services.ProductServices;
+
+
+/**
+ * 
+ * @author Sandhya
+ * 
+ *
+ */
 
 @WebService
 public class ProductCatalog implements ProductCatalogInterface {

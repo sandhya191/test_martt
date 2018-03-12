@@ -1,4 +1,4 @@
-package org.models;
+package org.javaprgms.models;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;

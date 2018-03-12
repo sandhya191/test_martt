@@ -5,7 +5,7 @@ import java.util.List;
 import javax.jws.WebMethod;
 import javax.jws.WebService;
 
-import org.models.Products;
+import org.javaprgms.models.Products;
 
 /**
  * 
