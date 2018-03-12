@@ -13,6 +13,7 @@ import org.javaprgms.services.ProductServices;
 /**
  * 
  * @author Sandhya
+ * details about get products and get catagories
  * 
  *
  */
